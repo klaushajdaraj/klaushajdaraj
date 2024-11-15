@@ -1,4 +1,4 @@
-## Hi, I am Klaus! 
+## Hi, I'm Klaus! 
 </br>
 
 ![Top Langs](https://github-readme-stats-six-zeta-91.vercel.app/api/top-langs/?username=klaushajdaraj&hide=python,R,MySQL,hack&layout=donut&langs_count=8&theme=dark)
