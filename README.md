@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats-six-zeta-91.vercel.app/api/top-langs/?username=klaushajdaraj&hide=python,R,MySQL,hack&layout=donut&langs_count=8&theme=dark)
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=klaushajdaraj&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
