@@ -1,8 +1,6 @@
 ## Hi, I'm Klaus! 
 </br>
 
-![Top Langs](https://github-readme-stats-six-zeta-91.vercel.app/api/top-langs/?username=klaushajdaraj&hide=python,R,MySQL,hack&layout=donut&langs_count=8&theme=dark)
-
  ## Tech Stack
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Klaus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -56,15 +54,16 @@
 
 
 <!-- Snake -->
-<div align="center">
+<!-- <div align="center">
     
   ![snake gif](https://github.com/klaushajdaraj/klaushajdaraj/blob/output/github-snake-dark.svg)
 </div>
-
+-->
 
 
 <!-- Counter -->
-<div align="center">
+<!--<div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=klaushajdaraj&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
+-->
