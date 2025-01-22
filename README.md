@@ -1,6 +1,12 @@
 ## Hi there! 🙌🏻
 </br>
 
+- 🪚 I’m currently building AI with Python, and other awesome ML tech.
+
+- 🎎 Interested in open source libraries on deep learning, computer vision, NLP, and other cool stuff.
+
+- 💌 Ask me about math, statistics, python best practices and other ML/AI stuff.
+
  ## Tech Stack
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Klaus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
