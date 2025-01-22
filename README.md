@@ -1,12 +1,6 @@
 ## Hi there! 🙌🏻
 </br>
 
-- 🎯 I’m currently developing AI with Python, R and other cool data science tech.
-
-- 🎎 I’m looking to collaborate on open source libraries...
-
-- 💬 Ask me about statistics, Python and other data science stuff.
-
  ## Tech Stack
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Klaus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
