@@ -5,7 +5,7 @@
 
 - 🎎 Interested in open source libraries on deep learning, computer vision, NLP, and other cool stuff.
 
-- 💌 Ask me about math, statistics, python best practices and other ML/AI stuff.
+- 💬 Ask me about math, statistics, python, data science best practices and other ML/AI stuff.
 
  ## Tech Stack
 <div style="display: inline_block"><br>
