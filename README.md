@@ -1,11 +1,11 @@
 ## Hi there! 🙌🏻
 </br>
 
-- 🪚 I’m currently building AI with Python, and other awesome ML tech.
+- 🪚 I’m currently building AI with Python, R and other awesome ML tech.
 
 - 🎎 Interested in open source libraries on deep learning, computer vision, NLP, and other cool stuff.
 
-- 💬 Ask me about math, statistics, python, data science best practices and other ML/AI stuff.
+- 💬 Ask me about math, statistics, python, data science best practices, or anything related to ML/AI.
 
  ## Tech Stack
 <div style="display: inline_block"><br>
