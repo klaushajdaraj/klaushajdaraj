@@ -3,7 +3,7 @@
 
 - 🪚 I’m currently building AI with Python and other awesome ML tech.
 
-- 🎎 Interested in open source libraries on computer vision, NLP, deep learning, and other cool stuff
+- 🎎 Interested in open source projects on computer vision, NLP, deep learning, and any other AI/ML cool stuff.
 
 **Character Specs:**
 ```diff
